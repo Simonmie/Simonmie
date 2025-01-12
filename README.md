@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<model-viewer src="https://drive.google.com/uc?export=download&id=1ABCDEF12345678" alt="3D Model" auto-rotate camera-controls style="width: 100%; height: 500px;"></model-viewer>
