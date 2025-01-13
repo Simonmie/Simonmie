@@ -6,6 +6,8 @@
 Here are some ideas to get you started:
 
 -->
+
+<p align=right> <img src="./shishi.gif" width="30%"> </p>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on web front-end development.
