@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 -->
 
- <img src="./shishi.gif" width="30%">
+ <img src="./shishi.gif" width="20%">
 
 Here are some ideas to get you started:
 
