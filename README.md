@@ -28,7 +28,6 @@ Here are some ideas to get you started:
         background-color: black;
         border-radius: 5px;"
 >
-<iframe src="https://juejin.cn/user/1489178757445003" width="80%" height="180px" frameborder="0"></iframe>
 
 </div>
 
