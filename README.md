@@ -19,6 +19,19 @@ Here are some ideas to get you started:
     2. 📱 WeChat: JustHappy-_-
     3. 💻 JueJin:<https://juejin.cn/user/1489178757445003>
 
+<!-- 这边新增一个盒子展示动态信息 -->
+<div
+    id="juejin-box"
+    style="
+        width: 100%;
+        height:200px;
+        background-color: black;
+        border-radius: 5px;"
+>
+<iframe src="https://juejin.cn/user/1489178757445003" width="80%" height="180px" frameborder="0"></iframe>
+
+</div>
+
 <!-- 以下是我最近的文章 -->
 
 Here are some articles I've written in juejin recently:
