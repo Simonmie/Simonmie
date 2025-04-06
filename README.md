@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 
 -->
 
- <img src="./Versakit.jpg">
-
+ <p align="center"><img src="./Versakit.jpg" width="56%">
+</p>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on web front-end development.
