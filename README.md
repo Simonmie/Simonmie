@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 -->
 
- <img src="./shishi.gif" width="20%" align="right">
+ <img src="./Versakit.jpg">
 
 Here are some ideas to get you started:
 
@@ -18,6 +18,8 @@ Here are some ideas to get you started:
     1. 📧 Email: <justhappymie@gmail.com>
     2. 📱 WeChat: JustHappy-_-
     3. 💻 JueJin:<https://juejin.cn/user/1489178757445003>
+
+ <img src="./shishi.gif" width="20%" align="right">
 
 <!-- 以下是我最近的文章 -->
 
