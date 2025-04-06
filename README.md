@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
 Here are some articles I've written in juejin recently:
 
+- [「Versakit 0.3 重磅发布」 两个月开发成果全揭！](https://juejin.cn/post/7489013830820167699)
 - [「我们一起做组件库🌻」做个面包屑🥖，Vue的依赖注入实战💉(VersakitUI开发实录)](https://juejin.cn/post/7473897136452583439)
 
 - [「我们一起造轮子🛞」不看源码带你搞懂markdown it的原理实现🤓🤓（Versakit团队的自娱自乐）](https://juejin.cn/post/7477534896719839247)
