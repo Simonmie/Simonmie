@@ -7,8 +7,11 @@ Here are some ideas to get you started:
 
 -->
 
- <p align="center"><img src="./Versakit.jpg" width="56%">
-</p>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="./Versakit.jpg" width="48%">
+  <img src='./assets/github-contribution-grid-snake-dark.svg' width="48%">
+</div>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on web front-end development.
@@ -33,5 +36,3 @@ Here are some articles I've written in juejin recently:
 - [「工具链🛠️」编程外挂！插件系统🗜️🗜️（切图仔的插件杂谈）🔌🔌](https://juejin.cn/post/7458595339799199795)
 - [「工具链🛠️」你难道只觉得cnpm只是npm国内镜像吗？cnpm竟然也可以解决“幽灵依赖”！🤡🤡](https://juejin.cn/post/7444895626217357362)
 - [「一个“大学牲🐮“的“小奋斗💪”」一个菜鸟在校程序猿的2024年总结！](https://juejin.cn/post/7449202879250743348)
-
-![](https://github.com/Simonmie/Simonmie/main/assets/github-contribution-grid-snake.svg)
