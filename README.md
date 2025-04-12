@@ -12,9 +12,7 @@ Here are some ideas to get you started:
     <img src='./assets/weather_forecast.svg' width="50%">
     <img src='./assets/github-contribution-grid-snake-dark.svg' width="50%">
   </div>
-  <div>
     <img src="./Versakit.jpg" width="46%">
-  </div>
 </div>
 
 Here are some ideas to get you started:
