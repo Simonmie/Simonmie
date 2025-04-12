@@ -7,13 +7,18 @@ Here are some ideas to get you started:
 
 -->
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">  
-  <div style="display: flex; flex-direction: column;" width="48%">  
-    <img src='./assets/weather_forecast.svg' width="50%">
-    <img src='./assets/github-contribution-grid-snake-dark.svg' width="50%">
-  </div>
-    <img src="./Versakit.jpg" width="46%">
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="./assets/weather_forecast.svg" width="500px"><br>
+      <img src="./assets/github-contribution-grid-snake-dark.svg" width="500px">
+    </td>
+    <td>
+      <img src="./Versakit.jpg" width="400px">
+    </td>
+  </tr>
+</table>
+
 
 Here are some ideas to get you started:
 
