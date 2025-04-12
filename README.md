@@ -8,7 +8,10 @@ Here are some ideas to get you started:
 -->
 
 <div style="display: flex; justify-content: space-between; align-items: center;">  
-  <img src='./assets/github-contribution-grid-snake-dark.svg' width="52%">
+  <div width="52%">  
+    <img src='./assets/weather_forecast.svg'>
+    <img src='./assets/github-contribution-grid-snake-dark.svg'>
+  </div>
   <img src="./Versakit.jpg" width="46%">
 </div>
 
