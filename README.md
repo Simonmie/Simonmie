@@ -8,12 +8,12 @@ Here are some ideas to get you started:
 -->
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">  
-  <div style="display: flex; flex-direction: column; width: 800px;">  
+  <div style="display: flex; flex-direction: column;" width="50%">  
     <img src='./assets/weather_forecast.svg' width="100%">
     <img src='./assets/github-contribution-grid-snake-dark.svg' width="100%">
   </div>
   <div>
-    <img src="./Versakit.jpg" width="800px">
+    <img src="./Versakit.jpg" width="50%">
   </div>
 </div>
 
