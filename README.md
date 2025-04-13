@@ -10,7 +10,8 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td>
-      <img src="./assets/weather_forecast.svg" width="500px"><br>
+      <img src="https://raw.githubusercontent.com/Simonmie/WeatherPainting/main/src/weather_forecast.svg
+      " width="500px"><br>
       <img src="./assets/github-contribution-grid-snake-dark.svg" width="500px">
     </td>
     <td>
