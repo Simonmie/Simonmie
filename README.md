@@ -19,7 +19,6 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on web front-end development.
