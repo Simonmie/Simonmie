@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on web front-end development.
-- 🤔 I’m looking for help with finding a suitable job.
 - 💬 Ask me about anything.
 - 📫 How to reach me:
     1. 📧 Email: <justhappymie@gmail.com>
