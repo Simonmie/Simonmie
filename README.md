@@ -14,7 +14,8 @@ Here are some ideas to get you started:
       <img src="./assets/github-contribution-grid-snake-dark.svg" width="500px">
     </td>
     <td>
-      <img src="./Versakit.jpg" width="400px">
+      <img src="./versa.jpg" width="400px">
+      <img src="./vueChrome.jpg" width="400px">
     </td>
   </tr>
 </table>
