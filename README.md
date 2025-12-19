@@ -30,4 +30,3 @@ Here are some ideas to get you started:
     2. 📱 WeChat: JustHappy-_-
     3. 💻 JueJin:<https://juejin.cn/user/1489178757445003>
 
- <img src="./shishi.gif" width="20%" align="right">
