@@ -14,7 +14,7 @@ Here are some ideas to get you started:
       <img src="./assets/github-contribution-grid-snake-dark.svg" width="500px">
     </td>
     <td>
-      <img src="./versa.jpg" width="250px">
+      <img src="./versaLab.png" width="250px">
       <img src="./vueChrome.jpg" width="250px">
     </td>
   </tr>
@@ -28,4 +28,3 @@ Here are some ideas to get you started:
     1. 📧 Email: <justhappymie@gmail.com>
     2. 📱 WeChat: JustHappy-_-
     3. 💻 JueJin:<https://juejin.cn/user/1489178757445003>
-
